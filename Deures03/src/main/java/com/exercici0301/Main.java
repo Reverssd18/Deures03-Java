@@ -15,4 +15,4 @@ public class Main {
         zona2.ajustaTemperatura(25.0);
         System.out.println("Nova temperatura mitjana (25): " + ControlTemperatura.getTemperaturaMitjana() + "°C");    
     }
-}
+} 
